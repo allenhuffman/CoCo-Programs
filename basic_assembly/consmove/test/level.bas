@@ -1,8 +1,9 @@
 0 ' CONSMOV TEST
 10 LV=1:L=1025:B=191:BL=128:BR=99:GT=126:LT=124:S=43345:N=200
-15 POKE140,N:CLS0:ONLV GOTO20,30
+15 POKE140,N:CLS0:ONLV GOTO20,30,35
 20 PRINT"#dl>>>>>>>>>>>>>>>d>>>>>>>>>>>>>>>rrdddrr<<<<<<<<<<<<<<<u<<<<<<<<<<<<<<<ddd>>>>>>>>>>>>>>>d>>>>>>>>>>>>>>>rrdd#dl<<<<<<<<<<<<<<<<<u<<<<<<<<<<<<<<<<<";:GOTO40
-30 PRINT"#dl>>>>>d>>>>>d>>>>>d>>>>>d>>>>>d>>>>>rrddddddd#dl<<<<<<<u<<<<<u<<<<<u<<<<<u<<<<<u<<<<<";:GOTO40
+30 PRINT"#dl>>>>>d>>>>>d>>>>>d>>>>>d>>>>>d>>>>>rrdddddd#dl<<<<<<<u<<<<<u<<<<<u<<<<<u<<<<<u<<<<<";:GOTO40
+35 PRINT"#dl>>d>>dd>>dd>>d>>>>>>>>>>>>>>>>>u>u>u>u>u>rrdddddddddd#dl<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<";:GOTO40
 40 L=1025:N=200:POKE140,N
 50 POKEL,B:P=PEEK(L+&H20):IFP=BL THENNL=L+&H20:N=N-&HA:POKE140,N:GOTO100
 60 IFP=GT THENNL=L+1:GOTO100
@@ -10,8 +11,10 @@
 100 EXECS:IFNL>&H5FFF THEN15
 110 P=PEEK(NL):IFP=BL THENPOKEL,BL:L=NL:GOTO150
 120 IFP=BR THENPOKEL,BL:GOTO 160
+130 IFP=LT THENPOKEL,BL:L=L-&H21:N=N+&HA:GOTO50
+140 IFP=GT THENPOKEL,BL:L=L-&H1F:N=N+&HA:GOTO50
 150 GOTO50
-160 LV=LV+1:IFLV>2THENLV=1
+160 LV=LV+1:IFLV>3THENLV=1
 170 GOTO15
 999 GOTO 999
 63010 DATA166,141,0,186,38,59,166,141,0,180,38,52,182,1,103,167,141,0,171,190,1,104,175,141,0,165,134,126,183,1,103,48,141,0,65,191,1,104,182,1,130,167,141,0,160,190,1,131,175,141,0,154,134,126,183,1,130,48,141,0,132,191,1,131,57,166,141,0,121,39
