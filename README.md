@@ -14,4 +14,4 @@ These are assembly language programs meant to stand alone. Assembly routines mea
 There are various BASIC test programs and routines.
 ## BASIC interfacing with Assembly ##
 There are routines meant to be used with BASIC, such as with DEF USR.
-* **ConsMove** - assembly language routine that patches PRINT to allow certain characters to move the cursor up, down, left or right. This is similar to how my original Commodore VIC-20 worked.
+* [ConsMove](basic_assembly/consmove) - assembly language routine that patches PRINT to allow certain characters to move the cursor up, down, left or right. This is similar to how my original Commodore VIC-20 worked.
