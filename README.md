@@ -9,6 +9,9 @@ These are files that have been used in my blog postings or YouTube videos. In th
 
 # Notable Items #
 ## Assembly ##
+These are assembly language programs meant to stand alone. Assembly routines meant to be called from BASIC are in a different directory.
 ## Basic ##
+There are various BASIC test programs and routines.
 ## BASIC interfacing with Assembly ##
+There are routines meant to be used with BASIC, such as with DEF USR.
 * **ConsMove** - assembly language routine that patches PRINT to allow certain characters to move the cursor up, down, left or right. This is similar to how my original Commodore VIC-20 worked.
