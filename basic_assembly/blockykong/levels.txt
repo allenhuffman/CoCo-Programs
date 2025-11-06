@@ -1,0 +1,33 @@
+  ----------------------------
+12345678901234567890123456789012
+         H H            BONUS
+         H H             3900
+         H HXXXXXXX     
+  OO     H H      H
+  OO.....H H      H
+  XXXXXXXXXXXXXXXXXXXXXXXXXX
+                         H        
+    XXXXXXXXXXXXXXXXXXXXXXXXXX
+       H     H                           
+  XXXXXXXXXXXXXXXXXXXXXXXXXX
+           H     H       H            
+    XXXXXXXXXXXXXXXXXXXXXXXXXX
+       H       H
+  XXXXXXXXXXXXXXXXXXXXXXXXXX
+    U                    H
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+12345678901234567890123456789012
+  ----------------------------
+-----
+  @ 
+ <=> 
+ / \
+-----
+@
+/=
+ |\
+-----
+   @
+  =\
+ /|
+-----
