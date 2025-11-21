@@ -1,0 +1,64 @@
+################################################################################################################################
+################################################################################################################################
+///////////::/:/:::.:::::..:.:: ::/.:://///>>=%V%%V%TT===>>>//?>::.. :. .  .. . :.. . ::: . :::.:::::::://:::/:::://////////////
+///////:////:://::::.::::...:::.::////>/>?=%EAEMAMEEEMEAAME&%VT=?>//::::.  .: . .::.. :::.. .. .::::::::.//:://///////////>/////
+//////://///:://::::.:::::.:::://>/??TV%%&EMMMMMEEMMMMMAEMMEEAA&ZVT=?>::.. .: . ...   :::...:.:.::::.:::..:::////://////////////
+///////:///:::./.::...:::::////??V%AEEMM##MM###MMMMMMMMMMEAEMMMEEZZZ&V=>//:::    :... :::  .:::.::..:::::/::////////////////////
+//////:://::::/:::::   :::///?T%AAM#MMMM#M########M#MMM#MMAEMAEMMAAA&ZZ&V=/:: .  :..   :: . ..:.::  :::::/:::////://////////////
+/////:::://:::./ .:. :.::?/?T%ZEMEMMMMM###########M#MM##M#MMMAAAEEMEEMMAZZZT>/:. :: .  :  . ... :: :::::.:::::://://////////////
+/////:::::::::.. ::. ./?>?T&AAEMMMMMMM#MM########MMMMMMM###MMMAAAAAAEMMMMMEA&=//:::   ... .  .:..   .:::...::::/:://////////////
+/////::::.:::::   :: :?=T%MEEEEMMMMMMMMMM#####M#MMMEAEAMM##MMMMMEEEAAEMMEM#MAMT>/:::.  .: .  .. .    ::... :::::/:::////:///////
+/://::::...::. . .::>=V%AEMEAEEMMEMMEMEMMMMM#M#MEEAZZ&%&ZEEMMAEMMMMMMMMMMMMMMEAZT>//:. .  .  . ..    :::.. :::.::::://:::///////
+:::::::::. .:.   :?TT&AEEEZAEEEEZEZZZEEMEEEMMMM#MAAZ&&V&V&ZAMMMAMM###MMMM#M#MEMAAT?//: :. .  .  .    :::.  ::...:::/:/:::////://
+:::. :::   :: .:/?T%&EM#AAEMMAEZA&ZAZZEAAZAMMMMMMAAAZAVVVV%&AM#MMEMM##MMM####MMMAZ%>//::  .  .  . .  :::.. :. ..:::::/:::///:://
+:::: :::   ::.:>?VZAEMMAZEMMEAAAZZAZAZEAAEAAZEAMEMAA&&%VVVV&AMM#MMMMM#######M###M&V?//::: .  .  .    :: .  :... :::::/:::///:://
+.::. .:.    ::/?%AAAMMEAEMMEMAAZAAAZAAEAAZZ%%%ZAEEAA&Z&%V%%&AAM#MMMMM#######MM#M#ZTV>//:: .   . .    ..:   :. . :::::/:::////://
+.:.  .:: . .:/>%EEAEMEEE#MMMMAAAEAZZZEA&ZZZVVVVZZAZAZAZZ%V&&AMEMMM##MM#M######M#MM&T?//:::.  .  .    ...   :... :::::::::///:://
+.::.. .: . .:=VZMZEMEMMMM#MEEAAMAZZ&AA%&&Z%TVTTV&&&&ZEEZZZV&ZA#MMMM#############MEZ=T>/::/.  .  .    :: .  :..../:::./:::/.::::/
+.::.  .. .  :T%MEAMEEMMMMMEMAAEA&%%ZZ%VV&&TTTTTTTV&&ZAEAZAE&&ZAEMM########M#M#M#MMMM&?/::/.  .  .    .:    :. . .:: ..:::///:::/
+ ..   .: .  /T&EZEEMMMMMMMEAZEZ%VV&&&%VVZVTTTTTTTTVT%&EAMEEMAZAME#M#M######MMMM##MMMZT?/:/. ..  .    .:    :.   :.:..::::///::/:
+ ..   .. .  :T&&&EMMMMM##MMEMA&%VVTVTVT%%VTTTTTTTT=TTTVZZAMMME&VTTTVZEM#ZAM########MM%?///:...  .    ...   .... .:: ..::::..:::/
+ :.    .   .:T&&AEAMM#####MME%V%VVTTTTTT%VTTTTTTTTTTTTV%TVV&VV=.  .>=T%ZMZAEM##MMMMMZ&VV?///::  .    .:    ::   :.:  ::::/:/:::/
+ :..  .  .  :?%&AM#MM#####EMZVVTVTTTTTTVV&TTTTTTTTT%&VTTTTTTTTTTTTTTTTTT%&EEE#####MMA&%T?///:::..    :.    :. . :::: .:::://:::/
+ :.    .   ../=VZMM#######MEAAEZ%VTTTVVVV%%VVTT=T=TTTTTTTT=>TTTTTTTTTTVTT&TT&E######MEV=/////::.:.   :: .  :. . .::.:.:::://:::/
+ :.   .. ...::/VZMM#######E%TTTTVVTTTTVTTTTTEVT===ZTTTVTV%? ?VZZ%V%&VVVT=VTTTTZM#######MZVTT=>::::   :.    :: . ..: ..:::::::://
+ .. . .. . ..: =ZMM##VZEEEZ&TVVTTTTTTTVTTTVV&M#TZE#%TTTV%ZV&EEEATTTTTTTTTVTTTTT&MEAAEE#M#MZTT?>?>//:.::.   ::.. ..:   :::/.::::/
+ :.   .     :..?&E###MMM#MZ%VTTTTT/ .=T&V&V%%EZT=T%ATTTTTTTTTT=TTTTTTTTTTVTTT=TVZMEAZZZEM##M&=>/:/::.:: .  :: .  .: .::::::/:://
+ :.   .   .....>%M#M##M##MZ%TTVVZZAEA##ZVTTV&ET=>>=%ETTTTTTTTTTTTT===TTT=%TTTTTTZEE&&&%A&###M%=>>///::::.  :: .  .: . ::::/::://
+ :    ..    :::=VZ#M#####MZTTVV%VTTTTTVVTTV%&ZT===?=TA%T=TTTT=====??=TTTVVTTTTTV&AAAEZZVVAMM#E&T>///:::.  :::   ..: ..::://::://
+ :.    :    .://VA#M#####E%TTTTTTTTTTT=TTTTTATT=>=?=??%Z%TTTT==??>/??TV%TTTTTTTTAE#MAAE&VE###EA&?///:::.   :: . ..: ..:::::/:://
+ : .  .  . ....>VE#M####METTTTTTTTT==TTTTTTZZTT==>?=?T==TZZZV=TV%%%EZ%TTT=TTTTTTV&%%&ZAZZ####EAZT>///::.. ::. . ..: . :::.:::://
+.:     : .  .::V&M#######ATTTTTTTTT===?==VAE%T==>??=??==TTTTTTT======TTT=T=TTTTTTTVVTT&EM###M#EAV>///:::. :::    .: .:::://:/://
+ :.   .. . .::=&E########EETTTTTTTT===T%&T%%TVVTTTVVZE%==TTTTT=T=?====?====TTTTTT=?TTTTAMMMMEMAZVT??//://:::: .  .. ..:::..::://
+.: .  .: .::/?%MM##MMM#MMMZ%Z%ZZ&ZEAZ%TVTTTVV%MA%VV&TV&VVTTTTTVTTTT=TTTTTTTTTTTT==???TVEMMM#MMAVT=///////.::: . ..: ..:::///:://
+.:   ..:.:>TVZMM###EEAMMM#A%TTTTTTTTTTTTTVTV%V%T%VVTTTT====?==TVTTTTTTTTTTTTTT=VT==TT%AM####EAZ?>/////////:::..  .:...::://::://
+.: . .:::/?T%E#####E&AEMEMMZTTVTTVTTTTTTTVVTTVTTTTTTT=????=?>=TTTTTTTTTTTT=TTTTZ###########M&&V?>/////://:::::. ..: ..:::.:::://
+.:. ..::/=%AAM######A&A#MMMEVTVTVTTTTTTVTTTTVTTTT===?=?===?====TVVTT==??====?=TZ#########MMMZ%?>/////:::..::: ....:.. :::./::://
+.:...::/TV&V&M#######MMMMMME%TVVVVTTTTVTTTTTVVV%%VVVV%%%%%%VZ&ZMM&TT==?>===T?=VE##########ME%=//////::::: ::: ::... ..:::///:::/
+.::/:/>=T=>TZM##M#M#######EMZVVT%VTTTTTV&&ZZAVTTT?//=>/?//?/??TZV%T==???===TTT%#############ET>/////::::..::: : .::.. :::.:/:://
+:::////////TTAMMEMM######MMMM%VVVTTTTTTT&##AVT==>>>?===T==V=&TTT=T===>?====TTTEM#########EMM#V?/////:::::.::: : :.:..:::://::://
+:://////////=TZMM#M###########%VVTTT=T=TTTTVVTTTVVVTTTTTTTTTTTTT==?=?>?T==TTTAM#########MMMZA&=>>///::::..::....::: .::::///:///
+//////////>>TVE###############E%VVTTTT==T=TTTTTTTTTTTTTTTTTTT===>>??===?=TTT&M###########MMEAAT>>///:::::/:::...:::...:::/:::///
+/////////>=TZM#################AVVTTTTTTT==TTTTTTTT=T??===?T===>>>>?=TTT=TV&Z###########MMMEAAV?>///:::::::::::.:::../:::://:://
+////////?T%EM###M###############MVVTTTTTTTTTTTT=TTTT==???=>=>?>>>>?==TTTT%&&E######M###M##MEMA&?>////::/./::::..::: ./:::///////
+///>>>>=V&AM##MMM################MZ%TTVTTTTTTT==?==???>///?>/??>??===TVV%Z&VA########MEMMMM#ME&T>>///::://:::::/::: .::::///:://
+/>>>>?TV%EM#MME&M##################MZVVVTTT==T==>=?>/>>/>>?>/>=T=TTTTVV&&%%%E###########M#M###M&=>///::/:::::::/:::../:::///////
+/>/>?TVA%AMMME%&M###################EZ%VTTTTTT==?=?>??>?????=TTTVVV&&%&%%VV%M##################AV>////:://:::::/:::::/:/:///:///
+///=TV%%VMMEM&TZM###################EZA%V%VVVTTTTT=TTTT==TTTTVVVVV&&&&VVTT&AM##################M%?////:///::::/:::::./::////////
+>??TVV%T%MEAA%VZA###################EA%%&Z%%VVV%TVTVTTTTVV&&VVV%%&Z&%%VVT%AM###############M###M%?/////////::///::::./:::///////
+==TVT%TV%MMAEVV&A###################MA&V&%%VVVVVTVVVTV%VVV%&V%%%&&%%TVVV%AAM##############MM##MEV?////////:::///:::/./:::///////
+TVV%V&VAMMMMMVVZE########MMMM########MA%%%VVVV%%VVVVTV%V%V&&&Z&%V%VTTVVVZM#M#############MMM#ME&=>/////////::///:::////::///////
+TV%&ZZEAM####MM############MMM#######MMZ&%VVVVVV%VVV%%&VV&&&%%V%VTTTT%ZAE#####M##MMMM####MMMMA&T>>/>///////::///:::::///////////
+T%V&&MAMM####################M########MEZ&%VVVTTVVVVT&VVV%%%%VVTTTVV&AEM###M###############MMAVT>>/>/////////////>>?????>///////
+T&%&&EAM################################EA&VVVVTTVVTTTTVTVTVVTTTVV%AAMM##################MMMEA%TT?===TTT===TVTTTTTTVTTTTTTTT=?>>
+TVVT%&EEM##############################MMEZ&%VVTTVVTTTTVVTTTTTVVV%ZAM#M#M################MMMMM##MMEZZ%%V%%VVVVTTTTVTTTTVVTVTTTVT
+TVVV%V&AM#M#M###########################MEAZ&%%TVTVTTTTTVVTTV%VT%EMEEMMMM######################MMMAZZAAZAZ&&V%VVTTVTTTTTVTTTTTVT
+T&VT%V%&ZM####M#M#######################MMZZ&%%%%VVVTVVVVVVVTTVV&EEEAMEME####M####################M#MMMMEEAEZ&&ZTTVTTVTTVTVTTTVT
+TVVT%VTVVZM#MMMMMM#MM################MMMMMMA%&&ZVTVVVVTVVTTTTTVZAEAAZAAEEMM######################M#####MEAAAMEZZTTVTTTTTVTTTTTVT
+TV%T%TTVV%EMMM###MMMMMM#MMMEMEEEMEMMM###MMEEZV&VVTVTTTTTTTTTTTV&V&ZAZEMMMM########################MMEMMMMEMMMMZ%TVVTTTTTTTTVTTVV
+TVVT%TTVT%ZM###M#M##MMMAAAAZAAEZEEEMEMM#MEAMZZ%%TVTTTTTTTTTTTVVV&ZZAZMM#######################MM####MMMMEMEMMZ%TTTVT==T=TTTVTTVT
+TVVV%VVVV%&AMEEEE#EMM#MMM#MMMMEEAAMEEMMMMMAAEZ&&TVVTTTTTVTTTTVV&%&ZEMMM#############MMMM#######MMMMMMMMEAAAZE%TVTTTTTTT==TTTTTTT
+TVTV%TVVV%EAEEAAAZEAZEEEEEEAAEAEZAAEAMMEAEAAAZ%VTTTTTTTTTTTTTVVT%&EE################MMM########MMMEEMMEE%%VTVVTTTTVT==T==TTTTTTT
+V%V%%TV%VZMMMAMMEEZZAZAMAA&&Z&AEEMEAEEEAZAZ&&%TTTTTTTTTTVTTT%%%V&AE#MM########MMM#M##MMM########MMMAAA%VVTTTVTTTTTTTT====TTVTTTT
+################################################################################################################################
+################################################################################################################################
