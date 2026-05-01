@@ -3,4 +3,4 @@ DEC     HEX     DESCRIPTION
 0       0000    Color BASIC Use
 512     0400    Text Screen
 1536    0600    Disk BASIC Use    
-3584    E000    Hi-Rez Graphics
+3584    0E00    Hi-Rez Graphics
