@@ -1,6 +1,19 @@
+EXTENDED BASIC only:
+
+DEC     HEX     DESCRIPTION
+-----   ----    -----------
+0       0000    Color BASIC Use
+512     0400    Text Screen
+1536    0600    Hi-Rez Graphics
+
+With DISK EXTENDED BASIC:
+
 DEC     HEX     DESCRIPTION
 -----   ----    -----------
 0       0000    Color BASIC Use
 512     0400    Text Screen
 1536    0600    Disk BASIC Use    
 3584    0E00    Hi-Rez Graphics
+
+Juan Castro adds:
+"Word at $BC (GRPRAM) is start of graphics RAM. Word at $BA (BEGGRP) gets you the start of the current view window."
